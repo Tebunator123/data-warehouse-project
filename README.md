@@ -88,6 +88,8 @@ data-warehouse-project/
 │   ├── bronze/                         # Scripts for extracting and loading raw data
 │   ├── silver/                         # Scripts for cleaning and transforming data
 │   ├── gold/                           # Scripts for creating analytical models
+|
+├── task_and_practice/                  # Scripts to build of dimension products and fact sales and to gain more knowledge 
 │
 ├── tests/                              # Test scripts and quality files
 │
