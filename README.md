@@ -96,7 +96,11 @@ data-warehouse-project/
 ├── README.md                           # Project overview and instructions
 ├── LICENSE                             # License information for the repository
 ├── .gitignore                          # Files and directories to be ignored by Git
-└── requirements.txt                    # Dependencies and requirements for the project
+
+---
+
+🛡️ License
+This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
 ---
 
